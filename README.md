@@ -1,1 +1,2 @@
-# Sine-curve representation in rust using Nannou library.
+# Sine-curve 
+Sine-curve representation in rust using Nannou library.
